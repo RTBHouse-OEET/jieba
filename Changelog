@@ -1,3 +1,6 @@
+2024-06-28: version 0.42.3
+1. Replace deprecated `pkg_resources` with `importlib.resources`.
+
 2024-04-29: version 0.42.2
 1. Use raw string for all RegExp strings.
 
